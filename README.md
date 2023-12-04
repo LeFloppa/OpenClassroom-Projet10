@@ -9,6 +9,7 @@ L'application est le site d'une agence evenementielle.
 - `yarn install`
 
 ## Lancement de l'application
+- `nvm use 16.14.2`
 - `yarn start`
 
 ## Tests
